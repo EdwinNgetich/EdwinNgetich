@@ -1,7 +1,8 @@
 
 ### Hi there 👋, am Edwin Ngetich
 #### Technology and Security
-I am a System Administrator , interested in Cloud computing and Cyber security.  
+I am a System Administrator and DevOps Engineer.
+I'm interested in Cloud computing and Cyber security.  
 
 Skills: C/ JS / HTML / CSS/C++
 
